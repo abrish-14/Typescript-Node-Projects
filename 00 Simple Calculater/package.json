@@ -1,0 +1,19 @@
+{
+  "name": "code-with-abrish-simple-calculater",
+  "version": "1.0.0",
+  "description": "\"simple calculater\"",
+  "main": "Calculater.js",
+  "type": "module",
+  "bin":"calculater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
