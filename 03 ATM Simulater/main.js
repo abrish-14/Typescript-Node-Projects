@@ -2,7 +2,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 let myBalance = 10000; //Dollar
-let myPin = 1729;
+let myPin = 1729; 
 let pinAns = await inquirer.prompt([
     {
         name: "pin",
