@@ -3,7 +3,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
-// Define the student class
+// Define the student class    
 class Student {
   static counter = 1000;
   id: number;
