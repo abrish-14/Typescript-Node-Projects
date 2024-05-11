@@ -3,7 +3,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
-let todoList: string[] = [];
+let todoList: string[] = [];        
 let conditions = true;
 
 
