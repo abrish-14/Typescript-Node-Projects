@@ -4,7 +4,7 @@ import inquirer from "inquirer";
 console.log("/n/twelcome to/'codewithabrish/'-CLT simple calculater /n ");
 //Asking Questions From User Thought Inquirer:
 let answers = await inquirer.prompt([
-    { messege: "Enter first numbwer", type: "number", name: "firstNumber" },
+    { messege: "Enter first numbwer", type: "number", name: "firstNumber" },  
     { messege: "Enter second number", type: "number", name: "secondNumber" },
     {
         messege: "Select one operator to perform operations",
