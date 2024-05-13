@@ -2,7 +2,7 @@
 
 import inquirer from  "inquirer";
 import chalk from "chalk";
-import {differenceInSeconds, min} from "date-fns";
+import {differenceInSeconds, min} from "date-fns"; 
 
 
 const res = await inquirer.prompt([
