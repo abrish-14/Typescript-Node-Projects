@@ -4,7 +4,7 @@ import chalk from "chalk";
 
 class Student {
     name:string
-    constructor(n: string){
+    constructor(n: string){ 
          this.name = n;
     }
 }
